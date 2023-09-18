@@ -1,0 +1,12 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Hola",
+      "respuesta": "Hola. \u00bfComo estas?"
+    },
+    {
+      "pregunta": "Muy bien \u00bfy t\u00fa?",
+      "respuesta": "Me alegra que estes bien. Tambien me encuentro muy bien"
+    }
+  ]
+}
