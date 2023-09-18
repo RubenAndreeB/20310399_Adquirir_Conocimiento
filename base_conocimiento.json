@@ -7,6 +7,18 @@
     {
       "pregunta": "Muy bien \u00bfy t\u00fa?",
       "respuesta": "Me alegra que estes bien. Tambien me encuentro muy bien"
+    },
+    {
+      "pregunta": "Prueba",
+      "respuesta": "Esto es una prueba, para ver como se ven los commits de modificaci\u00f3n"
+    },
+    {
+      "pregunta": "\u00bfQue tal la escuela?",
+      "respuesta": "Semana de evaluaci\u00f3n, tu te imaginaras"
+    },
+    {
+      "pregunta": "Si piensas grabar ese tiktok",
+      "respuesta": "Lastimosamente si, al cabo, siempre quise ser famoso"
     }
   ]
 }
