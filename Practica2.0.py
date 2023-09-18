@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 18 01:28:05 2023
+Ruben Andree Barba Magdaleno 20310399 7F
 
-@author: HP
+Chat bot con adquisión de conocimiento.
 """
 
 import json
